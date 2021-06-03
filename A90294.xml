@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true copy of a Welch sermon preached before Prince aurice in Wales upon his departure thence by Shon up Owen, Priest. VVherein is desired that Prince Maurice would not plunder her townes and villages, for they were all poore men and not able to buy her a new cushion to make her preach on. For which sermon Iohn up Owen was committed to prison, put by her benefice, and exiled the country: whereunto is added John up Owens complaint for her sad losse.</title>
+         </titleStmt>
+         <extent>Approx. 20KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90294</idno><idno type="EEBO-CITATION">99858949</idno>
+  <idno type="VID">111009</idno>
+  <idno type="EEBO-PROQUEST">2240884200</idno>
+  
+            <idno type="STC">Wing O813</idno>
+            <idno type="STC">Thomason E100_3</idno>
+            <idno type="STC">ESTC R11173</idno>
+            <idno type="PROQUEST">99858949</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99858949e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90294)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111009)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 18:E100[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true copy of a Welch sermon preached before Prince aurice in Wales upon his departure thence by Shon up Owen, Priest. VVherein is desired that Prince Maurice would not plunder her townes and villages, for they were all poore men and not able to buy her a new cushion to make her preach on. For which sermon Iohn up Owen was committed to prison, put by her benefice, and exiled the country: whereunto is added John up Owens complaint for her sad losse.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I. Underwood,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aprill 29".</note>
+                  <note>Shon up Owen = John Owen.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Maurice, --  Prince, 1620-1652 --  Humor --  Early works to 1800.</term>
+               <term type="personal_name">Owen, John, 1616-1683.</term>
+               <term type="topical_term">Welsh --  Humor --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111009:1"/>
+            <p>The true Copy of a Welch SERMON Preached Before Prince <hi>MAVRICE</hi> in Wales upon his departure thence, by <hi>Shon up Owen,</hi> Priest.</p>
+            <p>Wherein is desired that Prince <hi>Maurice</hi> would not plunder her Townes and Villages, for they were all poore men and not able to buy her a new Cushion to make her Preach on.</p>
+            <p>For which Sermon <hi>Iohn up Owen</hi> was com<g ref="char:EOLhyphen"/>mitted to prison <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut by her Benefice, and exi<g ref="char:EOLhyphen"/>led the Country. Whereunto is added <hi>Iohn up Owens</hi> complaint for her sad losse.</p>
+            <p>Printed for <hi>I. Vnderwood. 1643.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:111009:2"/>
+            <epigraph>
+               <bibl>2 <hi>Esdras</hi> 7. verses 15. 16.</bibl>
+               <q>
+                  <p>
+                     <hi>Now ther<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>fore, why disquietest thou thy selfe,</hi> (Prince Maurice,) <hi>seeing th<gap reason="illegible" resp="#murp" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> art but a corruptable man? and why art thou moved</hi> (to come into these parts) <hi>whereas thou art but mortall?</hi>
+                  </p>
+                  <p>
+                     <hi>And why h<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>st thou not considered in thy mind this thing that is come, ra<g ref="char:EOLhyphen"/>th<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r then that which is present?</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">H</seg>Er Text divides it selfe, or rather falls into three peices of her owne accord; in which urds her shall find three generall parts: her first part is the <hi>Ter<g ref="char:EOLhyphen"/>minus ad quo;</hi> her second, <hi>Terminus ad quem;</hi> her third and last part is, <hi>Terminus ad quod.</hi> The <hi>Ter<g ref="char:EOLhyphen"/>minus ad quo</hi> is meant you (Prince Maurice) in these ourds: <hi>Now therefore, why disquietest thou thy selfe:</hi> that is, why commest thou into these her territories to disquiet us? Then the next or second part is, the <hi>Terminus ad quem;</hi> that is, to <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>know who sent for her hit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er; that is the <hi>qu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re:</hi> Then followes the third and last part, the <hi>Terminus ad quod,</hi> wherefore and for what her is co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e for; now Prince <hi>Maurice,</hi> or cousen Prince <hi>Maurice,</hi> which title her loves best, that her desires her to accept of: And now her ha<g ref="char:EOLhyphen"/>ving formerly brushed her owne Country-m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns and omens coats and freeze j<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tkins, and told um of her faults soundly, for her will have her caknow that her Countries podies are not troubled with many gownes, her will with her leave, and her owne priviledge being a Preacher, rub and brush her coats also Prince <hi>Maurice;</hi> and first her will begin with her habit, and tell her of her owne faults and imper<g ref="char:EOLhyphen"/>fections in her garments, or ar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ayment; her cannot call her coate her▪ weares now, nor give it no better a terme then even a smocke of <hi>Roome,</hi>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iding coate, a C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>valiarisme, or Antiprotestatisme coate, full of Idolatrous Romanisticall buttons▪ so thicke set in a popish cere<g ref="char:EOLhyphen"/>monious way, th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t even it is abhomination to her sigh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; nor is this all her must tell her good Prince <hi>Maurice,</hi> for her will be bold to in<g ref="char:EOLhyphen"/>forme
+<pb facs="tcp:111009:2"/> her urship, that first the name of <hi>Maurice</hi> came out of this true▪ ancient, honourable Principallity of Wales, and it tooke her first ori<g ref="char:EOLhyphen"/>ginall from Morice-dancers, or one that did rise and caper oftner then her fellowes, and so called <hi>M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ri<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> or <hi>Maurice;</hi> be God, her country her can tell, never proved false, but were honest true Trojans, faithfull to her Kings and Queenes, and all her Princes; that is a credit for her owne Country, for her doth remember when her was but a Batche<g ref="char:EOLhyphen"/>lour of Art, there was a true proverbe went up and downe her Coun<g ref="char:EOLhyphen"/>try that is this: Three Welch-men, two souldiers, three English-men, two theeves; three French-men, two Traytors; three Spaniards, two whore-masters; three Italians, two Inglers; three Dutch-men, two Drunkards: which plainely shewes that you being a Dutch-man is most subject to bee intoxicated, <hi>ergo,</hi> overcome, or subject to her passions and her humours; for let her but aske her one question, nay, now her is in her Pulpit, her is in a place of Sanctuary, and may bold<g ref="char:EOLhyphen"/>ly talke her pleasure; what a Tivell made her to come into the Welch Alpes with her Troopers, and her D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>agoneers, and her Pioneers, and her Ingineers? what, doe her thinke to undermine her Mountaines, &amp; throw downe her huge pig hils, and lay them levill like her Low<g ref="char:EOLhyphen"/>countries; no her warrant her; so much shall serve for her <hi>Introducti<g ref="char:EOLhyphen"/>on</hi> to the Text, to her cousen Prince <hi>Maurice;</hi> now suffer her to tell her a word of <hi>reproofe,</hi> which is this; <hi>Terminus ad quem,</hi> and l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st of all a word or two of <hi>admonition</hi> or <hi>advice,</hi> and then her will have done: As her said before, what a Tivell made her come, first come in<g ref="char:EOLhyphen"/>to <hi>England,</hi> secondly into her▪ Kingdom of <hi>Wales:</hi> could her not be con<g ref="char:EOLhyphen"/>tent to stay at home in her owne Country, at the University of <hi>Ley<g ref="char:EOLhyphen"/>den,</hi> a place her have heard of, but indeed-law her was never there; <hi>Leyden</hi> should be a place of dulnesse, or heavinesse, like Lead, which word <hi>Leyden</hi> is taken from <hi>Lead,</hi> for lead is the first silable to <hi>Leyden,</hi> that is, one that is heavy heeled, or hath lead in her shooes; I say, why did nother stay there, who sent for her hither? her saies againe and again, who sent for her hither? will her not answer? then her will declare, that it was <hi>malice,</hi> and <hi>envy;</hi> two of the eldest sons of the great Tivell; againe▪ what moved her to come in this warlike manners; has her any cause? was her not well used at <hi>Layden,</hi> had her not good Apparells, had her not good victuals, had her not good Hodg-podge <hi>mine-hoire</hi> there? had her not good educations and instructions in all the lib<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rall Sciences; had her not there a schoole of war to exercise
+<pb facs="tcp:111009:3"/> her valours in, but her must come into <hi>England,</hi> and there spoile and plunder, burne and def<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce whole Townes and Villages; and bring her brave Country of <hi>England,</hi> the very fine Country of <hi>England</hi> to de<g ref="char:EOLhyphen"/>struction, and to want Bread corne, and Barley-corne; Sirrah, sirrah her have heard that most of her victuals, as Beere, Corne, Mutton▪ Veale, nay even her apparrels that her have form<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rly worne▪ hath bin sent her out of <hi>England</hi> to relieve her and the rest of her brethren when her was not able to helpe her selfe, but must have lived meane<g ref="char:EOLhyphen"/>ly, and gone with many a hungry belly to bed, and rose againe with as good an appetite as when her laid her downe and sl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pt upon it: And her doe thus ungratefully require poore England, to kill her men and omens, her fathers and her mothers, which often contribu<g ref="char:EOLhyphen"/>ted out of her yearly meanes to help her, when her was as low as the bowle that runs in the Bowling-alley, who meets with many rubs by way; I say poore England, did help to succour her, when her was not able to helpe her selfe, no not wipe her arse; her might h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve kept her as her have said at Leyden in <hi>Dutch-land,</hi> and have made her self a Cap<g ref="char:EOLhyphen"/>taine, and gone against <hi>Iack▪ Spaniard;</hi> there her should have found good causes and considerations for taking up of her arms, and for kil<g ref="char:EOLhyphen"/>ling of men, there her s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yes, her should have been honoured of all the English Nation who had heard of her valours and her courages; or her should have gone with her sword into Ireland, and with her dexterious hand and inchanted body, have endeavoured to quell and refrigerate the hot Irish Rebells, whose c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uelty and inhumanity no Brittish Chronicle her can find in her country, nor in her own library, can parallell: There her must confesse her had gone and steered a right and a good course, even by the compasse of Christianity: but this course that her now takes is Diabolicall and S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tanicall, and prophane; nay her w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll tell her her owne; and tell <hi>Belzephon</hi> which is the third Tivell in hell, her faults if her meet her in her way, and say her lyes in her tee<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h if it be a lye; So may her tell her <hi>Maurice,</hi> that her is in a malignant and capitall fault, in such a grosse and barbarous manner exercised, that if her had one of her chiefe Shudges here, her would apprehend h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r, and bring a bill of <hi>Scandala Magnatum</hi> against her, and issue out a <hi>Fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry Facias</hi> against her; and by that means forfeit all her goods and lands by a <hi>premunire:</hi> So much shall serve for my first reproofe for England, sweet England, honey England, which is <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>Terminus ad quem;</hi> now suff<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r another word of the reproofe for
+<pb facs="tcp:111009:3"/> her comming in Wales, in this her posture and warlike manner, wch is her <hi>Terminus ad quem.</hi> And first, what did her meane to come into her borders, to spoile her brave orchards and gardens, her Cider and her Perry trees, what did her mean to do, to mar and change all her very good pippins and pom<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers into c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>abs, and all her excel<g ref="char:EOLhyphen"/>lent Har<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ichoak<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s into thistl<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, and all her leeks and onions into brambles and thorns▪ and make it as barren as the place from whence her come; do her mean by▪ her guns and her cruelties to destroy all her cattells and her welch ven<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sons, and fine plack Cowes▪ that her should have no butter nor toasted shee<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, or Cows-bobby: her do think that her do mean to make all things so dear in her Kingdom of Wales, as it is amongst your Butter boxes; as to make her pay double or taxcise for all her eates or drinks or wears, and that her sha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l in Wale<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> feed as her did in Holland upon rootes, and car<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and onions, and hodg podg, that is, all sorts of hearbs sod together, which fils the Dutch<g ref="char:EOLhyphen"/>mans hungry belly very well, as a little wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y doth our hogs belli<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s in our barns or stables; a turd is as good and farre wholsomer for a Sow then a P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n-pudding, No good Prince <hi>Maurice▪</hi> her shall no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> suffered, her shall shew her no such <hi>Hocus Pocu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> tricks; to do such un<g ref="char:EOLhyphen"/>godly deeds, and be suff<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red to run on in <hi>h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r</hi> wilfulnesse; <hi>her</hi> has brave spirits in Wales left yet, though <hi>her</hi> lost many brave souldiers at Ken<g ref="char:EOLhyphen"/>ton battels, and <hi>her</hi> have long poles with pi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es or welch hooks at the end, such as can pul▪ <hi>her</hi> to <hi>her,</hi> or put <hi>her</hi> from <hi>her▪</hi> for <hi>her</hi> will tell <hi>her</hi> Prince <hi>Maurice,</hi> if <hi>her</hi> do not go hence speedily, <hi>her</hi> souldiers wil be beaten to pieces, and her s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lfe hugged worse then the chiefest Tivell <hi>Belzebub</hi> did hug the witch, which will make her colour the long s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ams of <hi>her</hi> h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se, worse then new three penny ale doth, or a purge of <hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>x vomic a</hi> given in a potion: <hi>her</hi> tell <hi>her, her</hi> has valiant men <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <hi>Wales</hi> such as shall sirk <hi>her</hi> Toby for <hi>her,</hi> and tickle <hi>her</hi> galligascoin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, marke <hi>her</hi> that now, <hi>her</hi> will warrant <hi>her</hi> shall make all <hi>her</hi> ords good: ther<g ref="char:EOLhyphen"/>fore her say be gone, be gone her say young man; for <hi>her</hi> do hold <hi>her</hi> but a monster, because <hi>her</hi> teech is l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nger then <hi>her</hi> beard, be gone her advises her with <hi>her</hi> pag and paggage, and the rest of <hi>her</hi> lumb<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs; <hi>her</hi> cannot endure these farting guns, nor these fisling pistols, nor this stin<g ref="char:EOLhyphen"/>king powder which shoot▪ nothing but pulle<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and kill her C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>un<g ref="char:EOLhyphen"/>treym<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n three or foure furlong<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> off; an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> then <hi>her</hi> is dead before <hi>her</hi> knows who hurt <hi>her,</hi> or c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n▪ say <hi>her</hi> prayers or make <hi>her</hi> wills: there<g ref="char:EOLhyphen"/>fore <hi>her</hi> gives <hi>her</hi> f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ire warnings, Prince <hi>Maurice,</hi> to be forthwith gone out of her Territories, and trudg home, and keep <hi>her</hi> good Queen <hi>her</hi>
+               <pb facs="tcp:111009:4"/> mother company, as <hi>her</hi> elder brother the <hi>Paulsgrave</hi> doth, so <hi>her</hi> then may become an honest man, and it may be a good bowler. Her Countrey-men cannot endure to bee plundered and robbed of <hi>her</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oods and parrels, nor of <hi>her</hi> cattels and venisons; <hi>her</hi> beleeves <hi>her</hi> would kisse where <hi>her</hi> sate a Sunday, if <hi>her</hi> had such fat goodly cat<g ref="char:EOLhyphen"/>tells as <hi>her</hi> has in <hi>Wales,</hi> in your Dutch-land Country: but <hi>her</hi> hop<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <hi>her</hi> cattells have more wit then to range out of their Countrey or from their Masters house, then to be enticed over sea with <hi>her</hi> when <hi>her</hi> goes; God send her good shipping; her cattell will her hope have more wit, and find lead in her feet, rather then go <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o Leyden, if such a motion were made, or such a patent granted to any projector: so her should have done Prince <hi>Maurice,</hi> if he had had any wit or money: But her shalbe cozened as her Grandam dog was: her will tell her plainly her has no mony nor plate in Wales, and her parish is very poor, that her lives in, and her is the Parson of it; for her cannot put up at the quarters end not above ten groats at the most▪</p>
+            <p>Do<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> her but looke here, her Parishoners are not able to buy or al<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> her a new Cushion for her Pulpit, see how many holes and rents are in her Cushion; see how her feathers fly about, and how the Cony wool f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yes about her <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ares, her is not able to afford her a new coat but once in two or three yeares: what did her meane to come hither? by God, her whole Cou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>try is very poore; and her should be in a very pad condition if her had not good store of tyth Piggs, Hens, Capons, Eggs, and such like, her should not know how to subsist with her wives and children; so much shall be enough which her hath spoken for the Text, which is the <hi>Terminus ad quod;</hi> that is, wherefore, and for what her is come for into Wales, which her has told her suffici<g ref="char:EOLhyphen"/>ently off▪ and her hopes will take notice and amend.</p>
+            <p>Now a word of Admonition, and so her will conclude, and that is this; her doe wish her Prince <hi>Maurice</hi> to goe her waies home quietly into her owne Country, goe her sayes young Prince <hi>Maurice</hi> home to her good Lady and Mother, as her have said before, for every honest man will doe as her is bidden, as her elder brother Prince <hi>Charles</hi> doth, and comfort her, who is very sorry to her knowledge, to hear<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> how her doth abuse her selfe and her Country of <hi>England;</hi> her good Lady and Mother is very heartily sorry for her rashnesse, goe home young Prince <hi>Maurice▪</hi> and be obedient to her deare Mother; her hath sent for her two times already, and if her do<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not goe before the third
+<pb facs="tcp:111009:4"/> time of sending, her will tell her plainely, that Prince <hi>Maurice</hi> is a Canary-bird, and her will send two Tivels and bid her take him Ti<g ref="char:EOLhyphen"/>vels take him; and if her Tivels has taken her they will so torment her podies, that her would have wished her had never come into Eng<g ref="char:EOLhyphen"/>land nor Wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, to fire, plunder, and rob all her meetes; and so her leaves her to her owne considerations and consciences, to apply all these sayings to her selfe: and her commits her prince <hi>M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urice</hi> to Dinner, because her smells the Roast meat and pyes piping hot, which stai<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s for her upon the Table: and so her will end as her at first begun, that is with her Text; Now therefore, why disquietest thou thy selfe, (Prince <hi>Maurice</hi>) seeing thou art but a corruptable man? and why art thou moved (<hi>to come into these parts</hi>) whereas thou art but mortall: And why hast thou not considered in thy mind this thing that is come rather then that which is present <hi>Esdras</hi> 7. Verse 15, 16. Prince <hi>Maurice</hi> was very angry at this Welch-mans Sermon, and the Do<g ref="char:EOLhyphen"/>ctrines he made of it; commanded the Priest to bee committed to close prison, and that there should be another Parson chose in <hi>Iohn up Owens</hi> place; and withall commanded that the said Priest should bee banishe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Country, and never to preach more in Welch; where<g ref="char:EOLhyphen"/>upon <hi>Iohn up Owen</hi> hearing of this sentence tooke it very patiently, and intends to come up to London and complaine to the House about▪ this his cruell sentence; and in the interi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> falling into a merry Poeti<g ref="char:EOLhyphen"/>call vain<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> writ these few lines, lamenting his hard fortune; called, <hi>Alas poore Welch Priest whither wilt thou goe.</hi>
+            </p>
+            <div type="song">
+               <opener>To the tune of alasse poore Scholler.</opener>
+               <lg>
+                  <l>IN a melancholy madnesse</l>
+                  <l>Being all alone,</l>
+                  <l>Her fell into deepe sadnesse;</l>
+                  <l>After twelve yea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es teaching,</l>
+                  <l>And daily preaching,</l>
+                  <l>Her parish so unkind is grown</l>
+                  <l>After all her Sermons,</l>
+                  <l>made in new fashion'd rage<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Wherein her q<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oted Plutarke</l>
+                  <l>and many Latin sages;</l>
+                  <l>Her selfe is now uncoated</l>
+                  <l>turnd ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of her Personagea.</l>
+                  <l>Alas poor Welch Priest whether &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>Farewell her Countrey Village</l>
+                  <l>and little Church,</l>
+                  <l>In this malignant ill age</l>
+                  <l>Her tithe of rotten egges</l>
+                  <l>And Pigs with leane legs,</l>
+                  <l>Will leave her in the lu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ch.</l>
+                  <l>For now her parish</l>
+                  <l>and Prince <hi>Maurice</hi> have intention</l>
+                  <l>To sl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ght poore <hi>Owen</hi>
+                  </l>
+                  <l>and his good invention,</l>
+                  <l>And take away their Curates</l>
+                  <l>twenty n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bles pension,</l>
+                  <l>Alas poor Welch Priest, &amp;c.</l>
+                  <pb facs="tcp:111009:5"/>
+                  <l>Yet it is known that Sir <hi>Owen</hi>
+                  </l>
+                  <l>when he spake on,</l>
+                  <l>Doctrines there was no Doein,</l>
+                  <l>From top to bottom</l>
+                  <l>Preaching while the pot's on,</l>
+                  <l>Fire boyld their B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>efe and Bacon.</l>
+                  <l>And in cold weather</l>
+                  <l>her have often stood there,</l>
+                  <l>Making long preachments</l>
+                  <l>that exceeding good were,</l>
+                  <l>But now like to her Pulpit</l>
+                  <l>they say they made of wood were,</l>
+                  <l>Alas poor Welch Priest, &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>But <hi>Owen</hi> knows the reason</l>
+                  <l>why her parish hate,</l>
+                  <l>Her learning at this season,</l>
+                  <l>And dis-repect her</l>
+                  <l>Because no Tub-lecture,</l>
+                  <l>Her hath made to them of late</l>
+                  <l>But let them take</l>
+                  <l>her gown from her and bang her,</l>
+                  <l>Nay let them take</l>
+                  <l>poor <hi>Owen</hi> and halfe hang her</l>
+                  <l>For such mad Lectures,</l>
+                  <l>her w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll never dam her,</l>
+                  <l>Alas poor welsh priest, &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>In <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Conven<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>icle chamber</l>
+                  <l>they aloud do prate,</l>
+                  <l>Besides which is far stranger,</l>
+                  <l>They often babble</l>
+                  <l>In a barne or stable,</l>
+                  <l>Against the King and State</l>
+                  <l>Ignorant Coblers,</l>
+                  <l>Joyne<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s and Shoomakers</l>
+                  <l>In seting soules upright</l>
+                  <l>will be all partakers,</l>
+                  <l>But <hi>Owen</hi> scorneth much</l>
+                  <l>To be one of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>se Wise-acres.</l>
+                  <l>Al<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s poor welsh priest &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>Yet now her think <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t better▪</l>
+                  <l>they have the best place</l>
+                  <l>That do know never a letter</l>
+                  <l>Their holy sister</l>
+                  <l>When they have <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ist her▪</l>
+                  <l>Doth give them their grace.</l>
+                  <l>They tiokle women</l>
+                  <l>with action and Tub▪ speeches,</l>
+                  <l>And by their prating</l>
+                  <l>Do get both wives <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd riches▪</l>
+                  <l>Her can get no gowne,</l>
+                  <l>no cloake nor yet no bree<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hes.</l>
+                  <l>Alas poor welch priest, &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>Now that <hi>Owen</hi> is casheered</l>
+                  <l>what shall her do,</l>
+                  <l>By women her is wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d</l>
+                  <l>Her thought to have dyed,</l>
+                  <l>In bel-ropes tyed,</l>
+                  <l>Halter-wise to tell her tale</l>
+                  <l>But though her welch speech,</l>
+                  <l>do not sound so sweetly,</l>
+                  <l>Her will make her language</l>
+                  <l>sound for greek most meekly,</l>
+                  <l>And for teaching Schollers</l>
+                  <l>get two pences still weekly.</l>
+                  <l>Alas poore welch priest, &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>So, so so▪ her hath tricks now,</l>
+                  <l>In her poore brayne</l>
+                  <l>
+                     <hi>Owen</hi> will by her wits now</l>
+                  <l>Both goe in freexe,</l>
+                  <l>Eate bread and cheese;</l>
+                  <l>A Schoole shall her maintain,</l>
+                  <l>Her will not from Wales</l>
+                  <l>remove her steps or station</l>
+                  <l>Or in new England raile</l>
+                  <l>against her King and Nation,</l>
+                  <l>But for a season</l>
+                  <l>will leave all predication,</l>
+                  <l>Alas poor welch priest it must needes be so.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
